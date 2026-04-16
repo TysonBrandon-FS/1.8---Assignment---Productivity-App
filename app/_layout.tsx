@@ -4,6 +4,7 @@ import { ThemeProvider, useTheme } from '../context/ThemeContext';
 import { Pressable, Text } from 'react-native';
 import '../styles/global.css';
 
+
 function ThemeToggle() {
   const { theme, toggleTheme } = useTheme();
   return (
