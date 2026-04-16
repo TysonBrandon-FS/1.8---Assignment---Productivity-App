@@ -126,3 +126,21 @@ styles/       # Global CSS
 ## Summary
 
 This project is a simple but functional task manager app built with Expo and TypeScript. It supports task creation, completion tracking, filtering, searching, theme switching, and cross-platform storage support for both mobile and web.
+
+## Reflection
+
+### What was most challenging about cross-platform development?
+
+One of the most challenging parts of cross-platform development for me was working with TypeScript. I know it is majorly preferred over JavaScript, but I am much more comfortable using JavaScript and React. Adjusting to the syntax and structure of TypeScript slowed me down at first because I had to think more about types and how everything was defined. It took extra time to fix errors. Over time, I got more comfortable with it and started to see how it can help prevent mistakes and keep code organized. Even though it was challenging, it was still helpful getting to use typescript more during this project.
+
+### How did you handle the time constraint?
+
+The time constraint was difficult because my day job is very demanding, which made it harder to dedicate consistent time to the project. To manage that, I focused on being efficient with the time I did have, even thought today is Thursday. I work throughout the night to complete this, and well into the morning. I had ashort work day so lucky I was able to finsih this up right now. I also used the base example, from the 1.5 assignment setup to speed up development, which helped me avoid building everything from scratch. That decision made me have a few extra files, but it allowed me to stay on track and complete this as quickly as I could.
+
+### What would you improve with more time?
+
+With more time, I would improve the file structure and organization of the project. I know there are some extra files included, but when I tried removing them, certain parts of the app would break. Because of the time limit, I decided to leave everything as is. If I had more time, I would clean up unused files and organize everything in a more clear and maintainable way. Overall clean file structure is very important.
+
+### What surprised you about the development process?
+
+I was surprised by how much I remembered about setting up local storage. Backend related work is not my favorite and not something I practice often, but I still remembered a lot from past experience. It came back more naturally than I expected, which made that part of the project easier. That was a good reminder that even skills I do not use often are still in my head and with some review I can still use them when needed.
